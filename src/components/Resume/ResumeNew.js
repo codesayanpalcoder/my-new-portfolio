@@ -9,7 +9,7 @@ import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const resumeLink =
-  ""https://raw.githubusercontent.com/soumyajit4419/portfolio/master/src/Assets/Soumyajit_Behera-BIT_MESRA.pdf";";
+  "https://github.com/codesayanpalcoder/my-new-portfolio/blob/fcf700809960355a85616aa82e63594c4d82f454/src/Assets/Sayan%20Pal's%20Resume-hackerresume%20(2)%20(1).pdf";
 
 function ResumeNew() {
   const [width, setWidth] = useState(1200);
